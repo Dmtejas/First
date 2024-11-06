@@ -1,3 +1,7 @@
 This is a buffer file
+<<<<<<< HEAD
 This is the change from the master
 this is the change from f1 branch
+=======
+This is change from f2
+>>>>>>> f2
